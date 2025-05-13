@@ -1,13 +1,12 @@
 # 🏀 NBA Player Effectiveness Visualizer
 
-This C++ project is a command-line application that allows users to input an NBA player's name, position, field goal percentage, and 3-point shooting percentage. 
+This C++ project allows users to input any NBA player's name, position, field goal percentage, and 3-point shooting percentage. 
 It then displays a visual chart of the player's shooting effectiveness directly in the terminal. 
-The project demonstrates core C++ concepts and is suitable for inclusion in a developer portfolio.
+The project demonstrates core C++ concepts and is able to be built on and expanded easily.
 
 ## 🎯 Project Goals
 
 - Use **C++ classes and inheritance**
-- Apply **file I/O (streams)** to save player data
 - Implement **data validation and error handling**
 - Visualize data using basic ASCII graphics
 - Practice **modular design** and clean coding principles
@@ -37,6 +36,9 @@ nba-visualizer/
 ├── main.cpp // Source code
 ├── nba_players.txt // Output file (generated)
 ├── README.md // This file
+├── Final Report_ NBA Player Effectiveness Visualizer.pdf // Final report
+├── NBA Stat Visualizer Project.pptx // Presentation slides
+├── NBA Visualizer Project Demo.mp4 // Live code demo video
 
 ---
 
